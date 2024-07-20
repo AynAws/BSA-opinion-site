@@ -1,0 +1,21 @@
+body {
+    background-image: url(imgs/bsa-site-bg.jpg);
+    background-size: cover;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+.subtitle {
+    font-weight: bold;
+}
+
+.card {
+    background: black;
+    margin-top: 200px;
+}
+
+h5, p, a, .card-title, .card-text, h3 {
+    color: white;
+}
